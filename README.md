@@ -21,6 +21,7 @@ To get access of the website just hit the following url in the browser
 ## Technologies Utilized:
 Socket.io 🚀: Enables real-time, bidirectional, and event-based communication, forming the backbone of this application.
 Node.js and Express.js 🛠️: Power the server, ensuring fast and scalable network applications.
+Docker 🐳: Containerizes the application for easy deployment and portability.
 
 ## How It Works:
 Server Setup: Node.js and Express.js form the foundation of the server, handling HTTP requests and serving static files. Socket.io is seamlessly integrated for real-time communication.
