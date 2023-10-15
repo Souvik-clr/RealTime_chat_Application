@@ -18,10 +18,7 @@ To get access of the website just hit the following url in the browser
   http://localhost:4000
 ```
 
-## Technologies Utilized:
-# Socket.io 🚀: Enables real-time, bidirectional, and event-based communication, forming the backbone of this application.
-# Node.js and Express.js 🛠️: Power the server, ensuring fast and scalable network applications.
-# Docker 🐳: Containerizes the application for easy deployment and portability.
+
 
 ## How It Works:
 Server Setup: Node.js and Express.js form the foundation of the server, handling HTTP requests and serving static files. Socket.io is seamlessly integrated for real-time communication.
@@ -37,3 +34,8 @@ User List and Room List: These dynamic lists keep users informed about the activ
 Changing Rooms: Users can seamlessly switch between rooms by selecting from the available options in the room list. This action updates the user's current room.
 
 Handling Disconnections: When a user disconnects, they are gracefully removed from the list of active users, and remaining users receive timely notifications.
+
+## Technologies Utilized:
+# Socket.io 🚀: Enables real-time, bidirectional, and event-based communication, forming the backbone of this application.
+# Node.js and Express.js 🛠️: Power the server, ensuring fast and scalable network applications.
+# Docker 🐳: Containerizes the application for easy deployment and portability.
